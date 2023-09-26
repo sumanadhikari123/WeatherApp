@@ -1,0 +1,8 @@
+Displaying more detailed weather information (e.g., temperature, description, city etc.).
+Providing current weather forecast.
+Adding error handling for invalid locations.
+Styling the HTML/CSS to make the app visually appealing.
+Displaying current date.
+clone this repo and got to particular project folder
+type a command 
+node src/app.js
